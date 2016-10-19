@@ -13,5 +13,5 @@ hs_err_pid*
 **/target
 **/*.iml
 **/**/target
-**/.idea
+**/*.idea
 **/*.aux
